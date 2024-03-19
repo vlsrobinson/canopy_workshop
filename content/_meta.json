@@ -10,5 +10,9 @@
   {
     "path": "/about",
     "text": "About"
+  },
+    {
+    "path": "/muskegon",
+    "text": "Muskegon"
   }
 ]
