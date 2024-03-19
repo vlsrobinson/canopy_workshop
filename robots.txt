@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://vlsrobinson.github.io/canopy_workshop
+
+# Sitemaps
+Sitemap: https://vlsrobinson.github.io/canopy_workshop/sitemap.xml
