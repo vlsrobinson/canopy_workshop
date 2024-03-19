@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[881],{8881:function(e){e.exports=JSON.parse('{"collection":"https://api.dc.library.northwestern.edu/api/v2/collections/a5f190cb-56fc-4f12-ad10-e5a0e6de329a?as=iiif&size=500","metadata":["Date","Subject"],"label":{"none":["Steamship Pamphlets"]}}')}}]);
